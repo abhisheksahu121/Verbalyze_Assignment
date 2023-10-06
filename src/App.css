@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "PT Sans", sans-serif;
+    /* background: rgb(199, 128, 199); */
+}
+
+.home,
+.contactus,
+.services,
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  font-size: 4rem;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+  text-shadow: 4px 4px 4px #fff;
+}
+
+.alanai,
+.design,
+.development,
+.marketing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  padding: 5vh;
+  background-repeat: none;
+  text-shadow: 4px 4px 4px #fff;
+}
+.home {
+  background-image: url(./images/home1.jpg);
+}
+
+.contactus {
+  background-image: url(./images/contactus.jpg);
+}
+
+.services {
+  background-image: url(./images/office.jpg);
+}
+
+.signup {
+  background-image: url(./images/signupp.jpg);
+}
