@@ -1,0 +1,71 @@
+{
+    "marketing": [
+      {
+        "id": 1,
+        "title": "What is Marketing?",
+        "body": "Marketing definition includes activities undertaken by a business establishment or an individual to promote their services and products. Marketing includes promotion, advertisement and selling products and services to the consumers.Marketing is the key component of any venture and includes aspects like writing product descriptions, designing website pages, improving customer services, establishing business & market segments and conducting market research. Marketing involves strategies that aid in the growth of a business venture."
+      },
+      {
+        "id": 2,
+        "title": "What is the Objective of Marketing?",
+        "body": "Marketing increases brand awareness among the target audience and aids brand visibility while roping in new consumers.Strong marketing campaigns help in increasing market share. The business world is strongly competitive, and these marketing campaigns help in boosting the market shares.Marketing is strongly based on market research, and one of the primary objectives of marketing is to launch products and services based on the market's needs and improve return on investments strategically."
+      }
+    ],
+    "design": [
+        {
+          "id": 1,
+          "title": "What is System Design?",
+          "body": "System Design is the core concept behind the design of any distributed systems. System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems."
+        },
+        {
+          "id": 2,
+          "title": "What is the Objective System Design?",
+          "body": "Practicality: We need a system that should be targetting the set of audiences(users) corresponding to which they are designing.",
+          "part1": "1 - Accuracy: Above system design should be designed in such a way it fulfills nearly all requirements around which it is designed be it functional o non-functional requirements.",
+          "part2": "2 - Completeness: System design should meet all user requirements.",
+          "part3": "3 - Efficient: The system design should be such that it should not overuse surpassing the cost of resources nor under use as it will by now we know will result in low thorough put (output) and less response time(latency).",
+            "part4": "4 - Reliability: The system designed should be in proximity to a failure-free environment for a certain period of time. "
+        }
+      ],
+
+      "development": [
+        {
+          "id": 1,
+          "title": "What is Web Development?",
+          "body": "Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites."
+        },
+        {
+          "id": 2,
+          "title": "What is the type of Web Development?",
+          "body": "Web Development can be classified into two ways: 1- Frontend Development 2- Backend Development"
+        },
+        {
+            "id": 3,
+            "title": "what is Frontend Development and Technologeis used?",
+            "body": "The part of a website where the user interacts directly is termed as front end. It is also referred to as the client side of the application.",
+            "skill": "Popular Frontend Technologies : JavaScript, HTML, CSS, Bootstrap "
+          },
+          {
+            "id": 4,
+            "title": "what is Backend Development and Technologeis used?",
+            "body": "Backend is the server side of a website. It is part of the website that users cannot see and interact with. It is the portion of software that does not come in direct contact with the users. It is used to store and arrange data.",
+            "skill": "Popular Backend Technologies : PHP, Java, Python, NodeJs "
+          }
+      ],
+
+      "alanai": [
+        {
+          "id": 1,
+          "title": "What is Alan Ai?",
+          "body": "Alan AI allows you to add a multimodal conversational experience to your app without overhead.Alan AI is an end-to-end conversational AI platform to build robust and reliable AI assistants and chatbots. The Alan AI backend takes care of most of the heavy lifting, including creating spoken language models (SLU), training speech recognition software, deploying and hosting conversational components. "
+        },
+        {
+          "id": 2,
+          "title": "Infrastructure of Alan Ai?",
+          "body": "To let you build voice and text virtual assistants, Alan AI offers a conversational AI platform. The platform comprises a set of tools and components to design, embed and host multimodal conversational experiences for your apps:",
+          "part1": "1- Alan Ai Studio",
+          "part2": "2- Alan Ai SDKs",
+          "part3": "3- Alan Ai Clouds"
+        }
+      ]
+  }
